@@ -1,0 +1,68 @@
+
+body
+{
+    direction: rtl;
+}
+
+
+
+.Rheader
+{
+    background-image:url(../ipda3/imgs/header.jpg);
+    background-size:contain;
+    background-repeat:no-repeat;
+    height:400px;
+    
+    
+    
+}
+.Lheader
+
+{
+    background-image:url(../ipda3/imgs/header-side.jpg);
+    background-size:contain;
+    background-repeat:no-repeat;
+    height:300px;
+
+}
+
+.sec1
+{
+    background-image: url(../ipda3/imgs/who-are-we.png);
+    background-size:contain;
+    background-repeat:no-repeat;
+    height:300px;
+}
+.who
+{
+    text-align: center;
+    
+     border-bottom-style: solid;
+    border-bottom-color: aqua;
+}
+
+
+.owl-carousel
+{
+    
+  background-image: url(../ipda3/imgs/we-offer.png);
+    
+    
+
+  
+}
+
+.test
+{
+    width:100px;
+    height:100px;
+    background-color:aqua;
+}
+
+
+.owl-carousel img
+{
+    width:100px;
+    height:100px;
+
+}
